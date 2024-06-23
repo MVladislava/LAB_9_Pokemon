@@ -1,4 +1,4 @@
-НИУ ВШЭ -ПЕРМЬ Пи-21-3.
+[online_store2.json](https://github.com/user-attachments/files/15943978/online_store2.json)НИУ ВШЭ -ПЕРМЬ Пи-21-3.
 Проект по дисциплине web-программирование. 
 # Название проекта
 Проект разработа студентами группы ПИ-21-3 и РИС-22-4 НИУ ВШЭ Пермь в рамках дисциплины Web-программирование.
@@ -90,3 +90,23 @@ npm run test
 
 ## Источники
 Если вы чем-то вдохновлялись, расскажите об этом: где брали идеи, какие туториалы смотрели, ссылки на исходники кода. 
+
+[Uploading{
+    "Servers": {
+        "1": {
+            "Name": "PostgreSQL 16",
+            "Group": "Servers",
+            "Host": "localhost",
+            "Port": 5432,
+            "MaintenanceDB": "postgres",
+            "Username": "postgres",
+            "Comment": "Auto-detected PostgreSQL 16 installation with the data directory at E:\\SQL\\data",
+            "TunnelPort": "22",
+            "KerberosAuthentication": false,
+            "ConnectionParameters": {
+                "sslmode": "prefer",
+                "connect_timeout": 10
+            }
+        }
+    }
+} online_store2.json…]()
