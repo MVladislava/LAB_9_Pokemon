@@ -25,11 +25,15 @@
 
 ```bash
 npm install
-
+```
 Для запуска frontend сервера используйте команду:
+```bash
 npm start
+```
 Для создания production сборки выполните:
+```bash
 npm run build
+```
 
 ## Разработка
 
